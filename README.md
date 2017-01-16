@@ -1,5 +1,7 @@
 # Faunus Notebooks
 
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/zweedeend/faunus-notebooks)
+
 This repository contains Jupyter Notebooks for running
 Faunus, a framework for Metropolis Monte Carlo simulations.
 
