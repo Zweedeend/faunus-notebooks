@@ -1,4 +1,4 @@
-name: gvdw-int
+
 channels: !!python/tuple
 - defaults
 dependencies:
